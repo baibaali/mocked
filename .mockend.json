@@ -1,0 +1,8 @@
+    github.com/baibaali/mocked_api/.mockend.json 
+
+
+    {
+      "User": {
+        "title": { "string": {} }
+      }
+    }
