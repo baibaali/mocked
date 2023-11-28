@@ -1,0 +1,15 @@
+{
+  "User": {
+    "id": "int",
+    "name": "string",
+    "email": "string",
+    "createdAt": "date"
+  },
+  "Post": {
+    "id": "int",
+    "userId": "int",
+    "title": "string",
+    "body": "string",
+    "createdAt": "date"
+  }
+}
